@@ -1,0 +1,642 @@
+[
+    {
+        "id" : "1",
+        "titulo": "https://www.animefenix.com/ousama-ranking",
+        "visto":"no"
+    },
+    {
+        "id" : "2",
+        "titulo": "https://www.animefenix.com/blue-period",
+        "visto":"no"
+    },
+    {
+        "id" : "3",
+        "titulo": "https://www.animefenix.com/mahoutsukai-no-yome",
+        "visto":"no"
+    },
+    {
+        "id" : "4",
+        "titulo": "https://www.animefenix.com/heike-monogatari",
+        "visto":"no"
+    },
+    {
+        "id" : "5",
+        "titulo": "https://www.animefenix.com/kobayashi-san-chi-no-maid-dragon",
+        "visto":"no"
+    },
+    {
+        "id" : "6",
+        "titulo": "https://www.animefenix.com/sonny-boy",
+        "visto":"no"
+    },
+    {
+        "id" : "7",
+        "titulo": "https://www.animefenix.com/eden",
+        "visto":"no"
+    },
+    {
+        "id" : "8",
+        "titulo": "https://www.animefenix.com/yasuke",
+        "visto":"no"
+    },
+    {
+        "id" : "9",
+        "titulo": "https://www.animefenix.com/fumetsu-no-anata-e",
+        "visto":"no"
+    },
+    {
+        "id" : "10",
+        "titulo": "https://www.animefenix.com/wotaku-ni-koi-wa-muzukashii",
+        "visto":"no"
+    },
+    {
+        "id" : "11",
+        "titulo": "https://www.animefenix.com/paranoia-agent",
+        "visto":"no"
+    },
+    {
+        "id" : "12",
+        "titulo": "https://www.animefenix.com/serial-experiments-lain",
+        "visto":"no"
+    },
+    {
+        "id" : "13",
+        "titulo": "https://www.animefenix.com/plastic-memories",
+        "visto":"no"
+    },
+    {
+        "id" : "14",
+        "titulo": "https://www.animefenix.com/aggressive-retsuko",
+        "visto":"no"
+    },
+    {
+        "id" : "15",
+        "titulo": "https://www.animefenix.com/hataraku-saibou-tv",
+        "visto":"no"
+    },
+    {
+        "id" : "16",
+        "titulo": "https://www.animefenix.com/re-zero-kara-hajimeru-isekai-seikatsu-shin-henshuu-ban",
+        "visto":"no"
+    },
+    {
+        "id" : "17",
+        "titulo": "https://www.animefenix.com/kamisama-ni-natta-hi",
+        "visto":"no"
+    },
+    {
+        "id" : "18",
+        "titulo": "https://www.animefenix.com/sayonara-no-asa-ni-yakusoku-no-hana-wo-kazarou",
+        "visto":"no"
+    },
+    {
+        "id" : "19",
+        "titulo": "https://www.animefenix.com/gin-no-saji",
+        "visto":"no"
+    },
+    {
+        "id" : "20",
+        "titulo": "https://www.animefenix.com/hyouka",
+        "visto":"no"
+    },
+    {
+        "id" : "21",
+        "titulo": "https://www.animefenix.com/durarara",
+        "visto":"no"
+    },
+    {
+        "id" : "22",
+        "titulo": "https://www.animefenix.com/soul-eater",
+        "visto":"no"
+    },
+    {
+        "id" : "23",
+        "titulo": "https://www.animefenix.com/kill-la-kill",
+        "visto":"no"
+    },
+    {
+        "id" : "24",
+        "titulo": "https://www.animefenix.com/relife",
+        "visto":"no"
+    },
+    {
+        "id" : "25",
+        "titulo": "https://www.animefenix.com/beastars",
+        "visto":"no"
+    },
+    {
+        "id" : "26",
+        "titulo": "https://www.animefenix.com/nichijou",
+        "visto":"no"
+    },
+    {
+        "id" : "27",
+        "titulo": "https://www.animefenix.com/inuyashiki",
+        "visto":"no"
+    },
+    {
+        "id" : "28",
+        "titulo": "https://www.animefenix.com/steins-gate",
+        "visto":"no"
+    },
+    {
+        "id" : "29",
+        "titulo": "https://www.animefenix.com/dororo",
+        "visto":"no"
+    },
+    {
+        "id" : "30",
+        "titulo": "https://www.animefenix.com/kekkai-sensen",
+        "visto":"no"
+    },
+    {
+        "id" : "31",
+        "titulo": "https://www.animefenix.com/tenki-no-ko",
+        "visto":"no"
+    },
+    {
+        "id" : "32",
+        "titulo": "https://www.animefenix.com/charlotte",
+        "visto":"no"
+    },
+    {
+        "id" : "33",
+        "titulo": "https://www.animefenix.com/hello-world",
+        "visto":"no"
+    },
+    {
+        "id" : "34",
+        "titulo": "https://www.animefenix.com/kyoukai-no-kanata",
+        "visto":"no"
+    },
+    {
+        "id" : "35",
+        "titulo": "https://www.animefenix.com/noragami",
+        "visto":"no"
+    },
+    {
+        "id" : "36",
+        "titulo": "https://www.animefenix.com/angel-beats",
+        "visto":"no"
+    },
+    {
+        "id" : "37",
+        "titulo": "https://www.animefenix.com/clannad",
+        "visto":"no"
+    },
+    {
+        "id" : "38",
+        "titulo": "https://www.animefenix.com/kakushigoto",
+        "visto":"no"
+    },
+    {
+        "id" : "39",
+        "titulo": "https://www.animefenix.com/log-horizon",
+        "visto":"no"
+    },
+    {
+        "id" : "40",
+        "titulo": "https://www.animefenix.com/made-in-abyss",
+        "visto":"no"
+    },
+    {
+        "id" : "41",
+        "titulo": "https://www.animefenix.com/shigatsu-wa-kimi-no-uso",
+        "visto":"no"
+    },
+    {
+        "id" : "42",
+        "titulo": "https://www.animefenix.com/mob-psycho-100",
+        "visto":"no"
+    },
+    {
+        "id" : "43",
+        "titulo": "https://www.animefenix.com/hotaru-no-haka",
+        "visto":"no"
+    },
+    {
+        "id" : "44",
+        "titulo": "https://www.animefenix.com/magia-record-mahou-shoujo-madoka-magica-gaiden",
+        "visto":"no"
+    },
+    {
+        "id" : "45",
+        "titulo": "https://www3.animeflv.net/anime/hourou-musuko",
+        "visto":"no"
+    },
+    {
+        "id" : "46",
+        "titulo": "https://www3.animeflv.net/anime/kaze-ga-tsuyoku-fuiteiru",
+        "visto":"no"
+    },
+    {
+        "id" : "47",
+        "titulo": "https://www3.animeflv.net/anime/hitori-no-shita-the-outcast",
+        "visto":"no"
+    },
+    {
+        "id" : "48",
+        "titulo": "https://www3.animeflv.net/anime/keppeki-danshi-aoyamakun",
+        "visto":"no"
+    },
+    {
+        "id" : "49",
+        "titulo": "https://www3.animeflv.net/anime/acca-13-ku-kansatsu-ka",
+        "visto":"no"
+    },
+    {
+        "id" : "50",
+        "titulo": "https://www3.animeflv.net/anime/kono-sekai-no-katasumi-ni",
+        "visto":"no"
+    },
+    {
+        "id" : "51",
+        "titulo": "https://www3.animeflv.net/anime/occulticnine",
+        "visto":"no"
+    },
+    {
+        "id" : "52",
+        "titulo": "https://www3.animeflv.net/anime/3-gatsu-no-lion",
+        "visto":"no"
+    },
+    {
+        "id" : "53",
+        "titulo": "https://www3.animeflv.net/anime/ajin",
+        "visto":"no"
+    },
+    {
+        "id" : "54",
+        "titulo": "https://www3.animeflv.net/anime/working",
+        "visto":"no"
+    },
+    {
+        "id" : "55",
+        "titulo": "https://www3.animeflv.net/anime/bungou-stray-dogs",
+        "visto":"no"
+    },
+    {
+        "id" : "56",
+        "titulo": "https://www3.animeflv.net/anime/hai-to-gensou-no-grimgar",
+        "visto":"no"
+    },
+    {
+        "id" : "57",
+        "titulo": "https://www3.animeflv.net/anime/kokoro-ga-sakebitagatterunda",
+        "visto":"no"
+    },
+    {
+        "id" : "58",
+        "titulo": "https://www3.animeflv.net/anime/charlotte",
+        "visto":"no"
+    },
+    {
+        "id" : "59",
+        "titulo": "https://www3.animeflv.net/anime/ninja-slayer-from-animation",
+        "visto":"no"
+    },
+    {
+        "id" : "60",
+        "titulo": "https://www3.animeflv.net/anime/sidonia-no-kishi",
+        "visto":"no"
+    },
+    {
+        "id" : "61",
+        "titulo": "https://www3.animeflv.net/anime/danna-ga-nani-wo-itteiru-ka-wakaranai-ken",
+        "visto":"no"
+    },
+    {
+        "id" : "62",
+        "titulo": "https://www3.animeflv.net/anime/aldnoah-zero",
+        "visto":"no"
+    },
+    {
+        "id" : "63",
+        "titulo": "https://www3.animeflv.net/anime/sanzoku-no-musume-ronja",
+        "visto":"no"
+    },
+    {
+        "id" : "64",
+        "titulo": "https://www3.animeflv.net/anime/psycho-pass",
+        "visto":"no"
+    },
+    {
+        "id" : "65",
+        "titulo": "https://www3.animeflv.net/anime/denki-gai-no-honya-san",
+        "visto":"no"
+    },
+    {
+        "id" : "66",
+        "titulo": "https://www3.animeflv.net/anime/omoide-no-marnie",
+        "visto":"no"
+    },
+    {
+        "id" : "67",
+        "titulo": "https://www3.animeflv.net/anime/zankyou-no-terror",
+        "visto":"no"
+    },
+    {
+        "id" : "68",
+        "titulo": "https://www3.animeflv.net/anime/ping-pong-the-animation",
+        "visto":"no"
+    },
+    {
+        "id" : "69",
+        "titulo": "https://www3.animeflv.net/anime/giovanni-no-shima",
+        "visto":"no"
+    },
+    {
+        "id" : "70",
+        "titulo": "https://www3.animeflv.net/anime/kaze-tachinu",
+        "visto":"no"
+    },
+    {
+        "id" : "71",
+        "titulo": "https://www3.animeflv.net/anime/gin-no-saji",
+        "visto":"no"
+    },
+    {
+        "id" : "72",
+        "titulo": "https://www3.animeflv.net/anime/genshiken",
+        "visto":"no"
+    },
+    {
+        "id" : "73",
+        "titulo": "https://www3.animeflv.net/anime/hal",
+        "visto":"no"
+    },
+    {
+        "id" : "74",
+        "titulo": "https://www3.animeflv.net/anime/kotonoha-no-niwa",
+        "visto":"no"
+    },
+    {
+        "id" : "75",
+        "titulo": "https://www3.animeflv.net/anime/aku-no-hana",
+        "visto":"no"
+    },
+    {
+        "id" : "76",
+        "titulo": "https://www3.animeflv.net/anime/saint-onii-san-pelicula",
+        "visto":"no"
+    },
+    {
+        "id" : "77",
+        "titulo": "https://www3.animeflv.net/anime/kokoro-connect",
+        "visto":"no"
+    },
+    {
+        "id" : "78",
+        "titulo": "https://www3.animeflv.net/anime/btooom",
+        "visto":"no"
+    },
+    {
+        "id" : "79",
+        "titulo": "https://www3.animeflv.net/anime/asura",
+        "visto":"no"
+    },
+    {
+        "id" : "80",
+        "titulo": "https://www3.animeflv.net/anime/sakamichi-no-apollon",
+        "visto":"no"
+    },
+    {
+        "id" : "81",
+        "titulo": "https://www3.animeflv.net/anime/nazo-no-kanojo-x",
+        "visto":"no"
+    },
+    {
+        "id" : "82",
+        "titulo": "https://www3.animeflv.net/anime/danshi-koukousei-no-nichijou",
+        "visto":"no"
+    },
+    {
+        "id" : "83",
+        "titulo": "https://www3.animeflv.net/anime/momo-e-no-tegami",
+        "visto":"no"
+    },
+    {
+        "id" : "84",
+        "titulo": "https://www3.animeflv.net/anime/usagi-drop",
+        "visto":"no"
+    },
+    {
+        "id" : "85",
+        "titulo": "https://www3.animeflv.net/anime/deadman-wonderland",
+        "visto":"no"
+    },
+    {
+        "id" : "86",
+        "titulo": "https://www3.animeflv.net/anime/arakawa-under-bridge",
+        "visto":"no"
+    },
+    {
+        "id" : "87",
+        "titulo": "https://www3.animeflv.net/anime/bakuman",
+        "visto":"no"
+    },
+    {
+        "id" : "88",
+        "titulo": "https://www3.animeflv.net/anime/colorful-movie",
+        "visto":"no"
+    },
+    {
+        "id" : "89",
+        "titulo": "https://www3.animeflv.net/anime/eve-no-jikan",
+        "visto":"no"
+    },
+    {
+        "id" : "90",
+        "titulo": "https://www3.animeflv.net/anime/cencoroll",
+        "visto":"no"
+    },
+    {
+        "id" : "91",
+        "titulo": "https://www3.animeflv.net/anime/tokyo-magnitude-80",
+        "visto":"no"
+    },
+    {
+        "id" : "92",
+        "titulo": "https://www3.animeflv.net/anime/ga-rei-zero",
+        "visto":"no"
+    },
+    {
+        "id" : "93",
+        "titulo": "https://www3.animeflv.net/anime/casshern-sins",
+        "visto":"no"
+    },
+    {
+        "id" : "94",
+        "titulo": "https://www3.animeflv.net/anime/the-sky-crawlers",
+        "visto":"no"
+    },
+    {
+        "id" : "95",
+        "titulo": "https://www3.animeflv.net/anime/tsumiki-no-ie",
+        "visto":"no"
+    },
+    {
+        "id" : "96",
+        "titulo": "https://www3.animeflv.net/anime/baccano",
+        "visto":"no"
+    },
+    {
+        "id" : "97",
+        "titulo": "https://www3.animeflv.net/anime/dennou-coil",
+        "visto":"no"
+    },
+    {
+        "id" : "98",
+        "titulo": "https://www3.animeflv.net/anime/bokurano",
+        "visto":"no"
+    },
+    {
+        "id" : "99",
+        "titulo": "https://www3.animeflv.net/anime/darker-than-black",
+        "visto":"no"
+    },
+    {
+        "id" : "100",
+        "titulo": "https://www3.animeflv.net/anime/byousoku-5-centimeter",
+        "visto":"no"
+    },
+    {
+        "id" : "101",
+        "titulo": "https://www3.animeflv.net/anime/toki-wo-kakeru-shoujo",
+        "visto":"no"
+    },
+    {
+        "id" : "102",
+        "titulo": "https://www3.animeflv.net/anime/welcome-to-the-nhk",
+        "visto":"no"
+    },
+    {
+        "id" : "103",
+        "titulo": "https://www3.animeflv.net/anime/black-lagoon",
+        "visto":"no"
+    },
+    {
+        "id" : "104",
+        "titulo": "https://www3.animeflv.net/anime/air-gear",
+        "visto":"no"
+    },
+    {
+        "id" : "105",
+        "titulo": "https://www3.animeflv.net/anime/suzumiya-haruhi-s2",
+        "visto":"no"
+    },
+    {
+        "id" : "106",
+        "titulo": "https://www3.animeflv.net/anime/ergo-proxy",
+        "visto":"no"
+    },
+    {
+        "id" : "107",
+        "titulo": "https://www3.animeflv.net/anime/hachimitsu-to-clover",
+        "visto":"no"
+    },
+    {
+        "id" : "108",
+        "titulo": "https://www3.animeflv.net/anime/mushi-shi",
+        "visto":"no"
+    },
+    {
+        "id" : "109",
+        "titulo": "https://www3.animeflv.net/anime/elfen-lied",
+        "visto":"no"
+    },
+    {
+        "id" : "110",
+        "titulo": "https://www3.animeflv.net/anime/monster",
+        "visto":"no"
+    },
+    {
+        "id" : "111",
+        "titulo": "https://www3.animeflv.net/anime/mousou-dairinin",
+        "visto":"no"
+    },
+    {
+        "id" : "112",
+        "titulo": "https://www3.animeflv.net/anime/get-backers",
+        "visto":"no"
+    },
+    {
+        "id" : "113",
+        "titulo": "https://www3.animeflv.net/anime/haibane-renmei",
+        "visto":"no"
+    },
+    {
+        "id" : "114",
+        "titulo": "https://www3.animeflv.net/anime/saikano",
+        "visto":"no"
+    },
+    {
+        "id" : "115",
+        "titulo": "https://www3.animeflv.net/anime/azumanga-daiou",
+        "visto":"no"
+    },
+    {
+        "id" : "116",
+        "titulo": "https://www3.animeflv.net/anime/full-metal-panic",
+        "visto":"no"
+    },
+    {
+        "id" : "117",
+        "titulo": "https://www3.animeflv.net/anime/hellsing-ultimate",
+        "visto":"no"
+    },
+    {
+        "id" : "118",
+        "titulo": "https://www3.animeflv.net/anime/sen-to-chihiro-no-kamikakushi",
+        "visto":"no"
+    },
+    {
+        "id" : "119",
+        "titulo": "https://www3.animeflv.net/anime/escaflowne-the-movie",
+        "visto":"no"
+    },
+    {
+        "id" : "120",
+        "titulo": "https://www3.animeflv.net/anime/flcl",
+        "visto":"no"
+    },
+    {
+        "id" : "121",
+        "titulo": "https://www3.animeflv.net/anime/trigun",
+        "visto":"no"
+    },
+    {
+        "id" : "122",
+        "titulo": "https://www3.animeflv.net/anime/mononoke-hime",
+        "visto":"no"
+    },
+    {
+        "id" : "123",
+        "titulo": "https://www3.animeflv.net/anime/mimi-wo-sumaseba",
+        "visto":"no"
+    },
+    {
+        "id" : "124",
+        "titulo": "https://www3.animeflv.net/anime/kurenai-no-buta",
+        "visto":"no"
+    },
+    {
+        "id" : "125",
+        "titulo": "https://www3.animeflv.net/anime/majo-no-takkyuubin",
+        "visto":"no"
+    },
+    {
+        "id" : "126",
+        "titulo": "https://www3.animeflv.net/anime/tonari-no-totoro",
+        "visto":"no"
+    },
+    {
+        "id" : "127",
+        "titulo": "https://www3.animeflv.net/anime/akira",
+        "visto":"no"
+    },
+    {
+        "id" : "128",
+        "titulo": "https://www3.animeflv.net/anime/kaze-no-tani-no-nausicaa",
+        "visto":"no"
+    }
+]
